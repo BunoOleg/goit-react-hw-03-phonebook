@@ -1,0 +1,25 @@
+.li {
+    font-size: 18px;
+    font-weight: 500;
+}
+
+;
+
+.button {
+    width: 50px;
+    font-size: 12px;
+    font-weight: 400;
+    border-radius: 3px;
+    margin-left: 10px;
+}
+
+.button:hover {
+    background-color: #cde2e5;
+}
+
+.button:active {
+    color: #ffffff;
+    background-color: #b3c2c4;
+}
+
+;
